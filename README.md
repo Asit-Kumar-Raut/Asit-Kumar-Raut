@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=500&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=550&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON;JAVA+%26+KOTLIN+APP+DEV" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -33,7 +33,9 @@
 
 ### <img src="https://img.icons8.com/fluency/48/000000/info.png" alt="Info" width="30" height="30" /> About Me
 
-I am a skilled **Full Stack Web & App Developer** with a strong technical foundation in **Reactjs, HTML, and CSS**. Beyond building user interfaces, I have expanded my coding toolkit with **Python**, showing a versatile approach to programming. I possess a natural curiosity that drives me to always seek out new things to learn.
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+
+I am a skilled **Full Stack Web & App Developer** with a strong technical foundation in **Reactjs, HTML, and CSS**. Beyond building user interfaces, I have expanded my coding toolkit with **Python** and have solid expertise in **Java and Kotlin for App Development**. I possess a natural curiosity that drives me to always seek out new things to learn.
 
 <table>
   <tr>
@@ -42,7 +44,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
         <li><img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" /> I'm currently working on my portfolio and full-stack projects.</li>
         <li><img src="https://img.icons8.com/fluency/48/000000/learning.png" width="20" /> I'm currently expanding my knowledge in Backend technologies and new frameworks.</li>
         <li><img src="https://img.icons8.com/fluency/48/000000/company.png" width="20" /> Contributed to company projects like <b>MarkX</b>.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20" /> Ask me about <b>React, Python, Web Development, and App Development</b>.</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20" /> Ask me about <b>React, Python, Java, Kotlin, and App Development</b>.</li>
         <li><img src="https://img.icons8.com/fluency/48/000000/mail.png" width="20" /> Reach me at: <b><a href="mailto:asitraut2006@gmail.com">asitraut2006@gmail.com</a></b></li>
         <li><img src="https://img.icons8.com/fluency/48/000000/lightning-bolt.png" width="20" /> Fun Fact: I stay active and energized through my love for sports!</li>
         <li><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="20" /> Portfolio: <b><a href="https://asit-0.onrender.com/">asit-0.onrender.com</a></b></li>
@@ -57,7 +59,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Tech Stack Section -->
 ### <img src="https://img.icons8.com/fluency/48/000000/maintenance.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack
@@ -70,7 +72,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GitHub Stats Section -->
 ### <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
@@ -90,9 +92,13 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit-Kumar-Raut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit-Kumar-Raut&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" width="100%" />
+</div>
+
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Featured Projects -->
 ### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" alt="Trophy" width="30" height="30" /> Featured Projects

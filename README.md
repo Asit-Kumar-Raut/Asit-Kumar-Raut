@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=550&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON;JAVA+%26+KOTLIN+APP+DEV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=4000&center=true&width=550&color=00F0FF;FF00FF;00FF00;FFFF00;FF5733&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON;JAVA+%26+KOTLIN+APP+DEV" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -78,7 +78,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=100&center=true&width=300&color=00F0FF&lines=💻+MY+TECH+STACK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=4000&center=true&width=400&color=FF3366;33FFCC;FFFF33;FF99FF&lines=💻+MY+TECH+STACK;🌐+WEB+DEVELOPMENT;📱+APP+DEVELOPMENT;⚙️+BACKEND+%26+DB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -93,18 +93,18 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 </div>
 <br/>
 <div align="center">
-  <h4>🚀 Frontend</h4>
+  <h4>🌐 Web Development</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,nodejs,express,flask&theme=dark&perline=10" />
   </a>
   <br/>
-  <i>React.js, React Router DOM, React Bootstrap, HTML, CSS, Bootstrap</i>
+  <i>React.js, React Router DOM, React Bootstrap, HTML, CSS, Bootstrap, Node.js, Express.js, Flask</i>
 </div>
 <br/>
 <div align="center">
-  <h4>⚙️ Backend</h4>
+  <h4>📱 App Development</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin&theme=dark&perline=10" />
   </a>
 </div>
 <br/>

@@ -5,7 +5,7 @@
 
 <!-- Intro Section -->
 <h1 align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/developer-mode.png" alt="Developer" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" />
   Full Stack Web & App Developer
 </h1>
 
@@ -20,10 +20,25 @@
   <a href="https://github.com/Asit-Kumar-Raut">
     <img src="https://img.shields.io/github/followers/Asit-Kumar-Raut?style=for-the-badge&color=green" alt="Followers"/>
   </a>
-  <a href="https://www.linkedin.com/in/asit-kumar-raut-275845322/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
 </p>
+
+<!-- Social Media Links (Animated Hover via Skillicons) -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/asit-kumar-raut-275845322/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
+  </a>
+  <a href="https://www.instagram.com/_asit.0.__/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" />
+  </a>
+  <a href="https://github.com/Asit-Kumar-Raut">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
+  </a>
+  <a href="mailto:asitraut2006@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" />
@@ -33,7 +48,7 @@
 
 ### <img src="https://img.icons8.com/fluency/48/000000/info.png" alt="Info" width="30" height="30" /> About Me
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e47fb36-c0c1-4b13-aec0-b18cb6d221c9.gif" width="300" />
 
 I am a skilled **Full Stack Web & App Developer** with a strong technical foundation in **Reactjs, HTML, and CSS**. Beyond building user interfaces, I have expanded my coding toolkit with **Python** and have solid expertise in **Java and Kotlin for App Development**. I possess a natural curiosity that drives me to always seek out new things to learn.
 
@@ -65,8 +80,23 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 ### <img src="https://img.icons8.com/fluency/48/000000/maintenance.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack
 
 <div align="center">
+  <h4>💻 Languages & Core</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,c,kotlin,php,react,html,css,git&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,py,java,kotlin,c,php&theme=dark&perline=10" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <h4>🚀 Frontend & Web</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark&perline=10" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <h4>📱 App Dev & Tools</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,vscode&theme=dark&perline=10" />
   </a>
 </div>
 
@@ -118,6 +148,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <!-- Footer -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Ninja.gif" width="150" />
   <p>Made with ❤️ by <a href="https://github.com/Asit-Kumar-Raut">Asit Kumar Raut</a></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" width="100%"/>
 </div>

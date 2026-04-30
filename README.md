@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=twinkling&fontAlignY=38&desc=I%27m%20Asit%20Kumar%20Raut&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=twinkling&fontAlignY=38&desc=I%27m%20Asit%20Kumar%20Raut&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <!-- Intro Section -->
@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=4000&center=true&width=550&color=00F0FF;FF00FF;00FF00;FFFF00;FF5733&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON;JAVA+%26+KOTLIN+APP+DEV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&center=true&width=550&color=36BCF7&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON;JAVA+%26+KOTLIN+APP+DEV" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -78,7 +78,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=4000&center=true&width=400&color=FF3366;33FFCC;FFFF33;FF99FF&lines=💻+MY+TECH+STACK;🌐+WEB+DEVELOPMENT;📱+APP+DEVELOPMENT;⚙️+BACKEND+%26+DB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1500&center=true&width=400&color=FF3366&lines=💻+MY+TECH+STACK;🌐+WEB+DEVELOPMENT;📱+APP+DEVELOPMENT;⚙️+BACKEND+%26+DB" alt="Typing SVG" />
 </div>
 
 <div align="center">

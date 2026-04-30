@@ -77,26 +77,55 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Tech Stack Section -->
-### <img src="https://img.icons8.com/fluency/48/000000/maintenance.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=100&center=true&width=300&color=00F0FF&lines=💻+MY+TECH+STACK" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <h4>💻 Languages & Core</h4>
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-467645f7-f8ce-412e-b6a3-26a17b0d7d74.gif" width="150"/>
+</div>
+
+<div align="center">
+  <h4>💻 Programming Languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,kotlin,c,php&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,c,js,py&theme=dark&perline=10" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <h4>🚀 Frontend & Web</h4>
+  <h4>🚀 Frontend</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark&perline=10" />
+  </a>
+  <br/>
+  <i>React.js, React Router DOM, React Bootstrap, HTML, CSS, Bootstrap</i>
+</div>
+<br/>
+<div align="center">
+  <h4>⚙️ Backend</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark&perline=10" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <h4>📱 App Dev & Tools</h4>
+  <h4>🗄️ Database</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,vscode&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark&perline=10" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <h4>👁️ Computer Vision</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv&theme=dark&perline=10" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <h4>🛠️ Tools</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=10" />
   </a>
 </div>
 

@@ -1,24 +1,117 @@
-# 💫 About Me:
-Asit Kumar Raut is a skilled Front-End Developer with a strong technical foundation in Reactjs, HTML, and CSS. Beyond building user interfaces, he has expanded his coding toolkit with Python, showing a versatile approach to programming. Asit is someone who stays active and energized through his love for sports, and he possesses a natural curiosity that drives him to always seek out new things to learn. This combination of technical talent and a growth mindset makes him a well-rounded developer ready for new challenges.<br><br>What I can do for you:<br>React/Front-End Help: I can help you debug your code or explain complex React hooks in simple English.<br><br>Python Practice: We can write scripts together to automate tasks or analyze sports data.<br><br>Learning Paths: Since you love learning new things, I can suggest a roadmap for a new technology (like Next.js or TypeScript).
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Asit%20Kumar%20Raut&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
+</div>
 
+<!-- Intro Section -->
+<h1 align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/developer-mode.png" alt="Developer" width="40" height="40" />
+  Full Stack Web & App Developer
+</h1>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Asit) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AsitKumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_asit.0.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asit-kumar-raut-275845322/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_asit.0.__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asitraut2006@gmail.com) 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=500&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON" alt="Typing SVG" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asit-Kumar-Raut&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Asit-Kumar-Raut&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asit-Kumar-Raut&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/Asit-Kumar-Raut">
+    <img src="https://komarev.com/ghpvc/?username=Asit-Kumar-Raut&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Asit-Kumar-Raut">
+    <img src="https://img.shields.io/github/followers/Asit-Kumar-Raut?style=for-the-badge&color=green" alt="Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asit-kumar-raut-275845322/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Asit-Kumar-Raut&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+### <img src="https://img.icons8.com/fluency/48/000000/info.png" alt="Info" width="30" height="30" /> About Me
+
+I am a skilled **Full Stack Web & App Developer** with a strong technical foundation in **Reactjs, HTML, and CSS**. Beyond building user interfaces, I have expanded my coding toolkit with **Python**, showing a versatile approach to programming. I possess a natural curiosity that drives me to always seek out new things to learn.
+
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" /> I'm currently working on my portfolio and full-stack projects.</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/learning.png" width="20" /> I'm currently expanding my knowledge in Backend technologies and new frameworks.</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/company.png" width="20" /> Contributed to company projects like <b>MarkX</b>.</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20" /> Ask me about <b>React, Python, Web Development, and App Development</b>.</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/mail.png" width="20" /> Reach me at: <b><a href="mailto:asitraut2006@gmail.com">asitraut2006@gmail.com</a></b></li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/lightning-bolt.png" width="20" /> Fun Fact: I stay active and energized through my love for sports!</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="20" /> Portfolio: <b><a href="https://asit-0.onrender.com/">asit-0.onrender.com</a></b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asit-Kumar-Raut&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Tech Stack Section -->
+### <img src="https://img.icons8.com/fluency/48/000000/maintenance.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,java,c,kotlin,php,react,html,css,git&theme=dark&perline=10" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<!-- GitHub Stats Section -->
+### <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asit-Kumar-Raut&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asit-Kumar-Raut&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Asit-Kumar-Raut&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit-Kumar-Raut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</div>
+
+<br/>
+
+---
+
+<!-- Featured Projects -->
+### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" alt="Trophy" width="30" height="30" /> Featured Projects
+
+| **Project** | **Description** | **Links** |
+|:---:|:---|:---:|
+| **Personal Portfolio** | 🌐 My personal portfolio website showcasing my skills and full-stack projects. | [🌍 Live](https://asit-0.onrender.com/) |
+| **MarkX** | 🏢 A company project I worked on. | [🌍 Live](https://markxweb.com/) |
+| **Prraagyalok** | 📚 A learning platform website designed to provide educational resources. | [🌍 Live](https://prraagyalok.netlify.app/) |
+| **Ardilium** | 💬 A social media website connecting users. | [🌍 Live](https://asit-kumar-raut.github.io/ARDILIUM/) |
+| **iClicks** | ⛺ A nature camp website featuring outdoor exploration. | [🌍 Live](https://iclicksweb.netlify.app/) |
+| **Musi-Deo** | 🎵 A music video website. | [🌍 Live](https://asit-kumar-raut.github.io/MUSI-DEO/) |
+
+<br/>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <p>Made with ❤️ by <a href="https://github.com/Asit-Kumar-Raut">Asit Kumar Raut</a></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" width="100%"/>
+</div>

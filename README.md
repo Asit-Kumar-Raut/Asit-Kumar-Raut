@@ -46,7 +46,9 @@
 
 <br/>
 
-### <img src="https://img.icons8.com/fluency/48/000000/info.png" alt="Info" width="30" height="30" /> About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=300&color=F77F00&lines=🔥+ABOUT+ME" alt="Typing SVG" />
+</div>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e47fb36-c0c1-4b13-aec0-b18cb6d221c9.gif" width="300" />
 
@@ -134,7 +136,9 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GitHub Stats Section -->
-### <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=300&color=00F0FF&lines=📈+GITHUB+STATS" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Asit-Kumar-Raut&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
@@ -160,7 +164,9 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Featured Projects -->
-### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" alt="Trophy" width="30" height="30" /> Featured Projects
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=400&color=FF3366&lines=🏆+FEATURED+PROJECTS" alt="Typing SVG" />
+</div>
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
@@ -178,6 +184,6 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 <!-- Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Ninja.gif" width="150" />
-  <p>Made with ❤️ by <a href="https://github.com/Asit-Kumar-Raut">Asit Kumar Raut</a></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&center=true&width=400&color=FF3366&lines=Made+with+❤️+by+Asit+Kumar+Raut" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" width="100%"/>
 </div>

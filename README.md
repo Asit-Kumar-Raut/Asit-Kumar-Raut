@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=twinkling&fontAlignY=38&desc=I%27m%20Asit%20Kumar%20Raut&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=twinkling&fontAlignY=38&desc=I%27m%20Asit%20Kumar%20Raut&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <!-- Intro Section -->
@@ -74,7 +74,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b24-95fc-2240ed933af6.gif" width="100%">
 
 <!-- Tech Stack Section -->
 <div align="center">
@@ -131,7 +131,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b24-95fc-2240ed933af6.gif" width="100%">
 
 <!-- GitHub Stats Section -->
 ### <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
@@ -157,7 +157,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b24-95fc-2240ed933af6.gif" width="100%">
 
 <!-- Featured Projects -->
 ### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" alt="Trophy" width="30" height="30" /> Featured Projects

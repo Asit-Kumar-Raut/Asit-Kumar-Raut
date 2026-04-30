@@ -74,7 +74,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
 
-<img src="https://media.giphy.com/media/aIaq3nLhD6zXa/giphy.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Tech Stack Section -->
 <div align="center">
@@ -131,7 +131,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <br/>
 
-<img src="https://media.giphy.com/media/aIaq3nLhD6zXa/giphy.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GitHub Stats Section -->
 ### <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
@@ -157,7 +157,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <br/>
 
-<img src="https://media.giphy.com/media/aIaq3nLhD6zXa/giphy.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Featured Projects -->
 ### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" alt="Trophy" width="30" height="30" /> Featured Projects

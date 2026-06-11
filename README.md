@@ -176,6 +176,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 | **Ardilium** | 💬 A social media website connecting users. | [🌍 Live](https://asit-kumar-raut.github.io/ARDILIUM/) |
 | **iClicks** | ⛺ A nature camp website featuring outdoor exploration. | [🌍 Live](https://iclicksweb.netlify.app/) |
 | **Musi-Deo** | 🎵 A music video website. | [🌍 Live](https://musi-deo-website.vercel.app/) |
+| **Quiz** | A fun quiz learning website. | [🌍 Live](https://asit-kumar-raut.github.io/quiz/) |
 
 <br/>
 

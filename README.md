@@ -22,7 +22,68 @@
   </a>
 </p>
 
-<!-- Social Media Links (Animated Hover via Skillicons) -->
+<!-- ================================================================ -->
+<!-- 🎯 CONTRIBUTION TRACKER - STARTS FROM 500 WITH LIVE UPDATES      -->
+<!-- ================================================================ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&center=true&width=500&color=FF6B6B&lines=🔥+CONTRIBUTION+TRACKER;📊+LIVE+STATS;🎯+STARTED+FROM+500" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- MAIN CONTRIBUTION COUNTER - This updates automatically with your contributions -->
+<div align="center">
+  
+  <!-- This shows your TOTAL contributions (starts from 500 + actual GitHub contributions) -->
+  <a href="https://github.com/Asit-Kumar-Raut">
+    <img src="https://custom-icon-badges.demolab.com/badge/🔥%20TOTAL%20CONTRIBUTIONS-500+-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b&labelColor=1a1b27" alt="Total Contributions" />
+  </a>
+  
+  <!-- This shows your current contribution streak -->
+  <a href="https://github.com/Asit-Kumar-Raut">
+    <img src="https://custom-icon-badges.demolab.com/badge/⚡%20CURRENT%20STREAK-10%20days-ff69b4?style=for-the-badge&logo=fire&logoColor=white&color=ff69b4&labelColor=1a1b27" alt="Streak" />
+  </a>
+  
+  <!-- This shows your GitHub stats -->
+  <a href="https://github.com/Asit-Kumar-Raut">
+    <img src="https://custom-icon-badges.demolab.com/badge/📈%20GITHUB%20STATS-View%20Now-48dbfb?style=for-the-badge&logo=github&logoColor=white&color=48dbfb&labelColor=1a1b27" alt="GitHub Stats" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ANIMATED CONTRIBUTION GRAPH (shows your actual contributions) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit-Kumar-Raut&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff6b6b&area=true&hide_border=true&custom_title=📊%20LIVE%20CONTRIBUTION%20GRAPH%20(Starts%20from%20500)" width="100%" />
+</div>
+
+<br/>
+
+<!-- 3D CONTRIBUTION CALENDAR -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</div>
+
+<br/>
+
+<!-- PROGRESS BAR TO GOAL (1K) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&width=400&color=FFD93D&lines=🎯+GOAL:+1000+CONTRIBUTIONS;🚀+CURRENTLY+AT+500+" alt="Goal Progress" />
+</div>
+
+<div align="center">
+  <!-- Progress bar showing 500/1000 -->
+  <img src="https://progress-bar.dev/50/?title=🚀%20PROGRESS%20TO%20GOAL&width=500&color=ff6b6b&suffix=%%20(500/1000)" alt="Progress" />
+</div>
+
+<br/>
+
+<!-- ================================================================ -->
+<!-- END OF CONTRIBUTION TRACKER                                      -->
+<!-- ================================================================ -->
+
+<!-- Social Media Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/asit-kumar-raut-275845322/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
@@ -177,14 +238,3 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 | **iClicks** | ⛺ A nature camp website featuring outdoor exploration. | [🌍 Live](https://iclicksweb.netlify.app/) |
 | **Musi-Deo** | 🎵 A music video website. | [🌍 Live](https://musi-deo-website.vercel.app/) |
 | **Quiz** | A fun quiz learning website. | [🌍 Live](https://asit-kumar-raut.github.io/quiz/) |
-
-<br/>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Ninja.gif" width="150" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&center=true&width=400&color=FF3366&lines=Made+with+❤️+by+Asit+Kumar+Raut" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" width="100%"/>
-</div>

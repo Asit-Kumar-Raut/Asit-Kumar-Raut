@@ -1,15 +1,12 @@
-<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Asit%20Kumar%20Raut&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
 </div>
 
-<!-- Intro Section -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" />
   Full Stack Web & App Developer
 </h1>
 
-<!-- STATIC TITLE - NO TYPING SVG -->
 <h2 align="center">ASIT KUMAR RAUT</h2>
 <h3 align="center">🔥 Full Stack Web & App Developer | React | Python | Java | Kotlin</h3>
 
@@ -22,7 +19,6 @@
   </a>
 </p>
 
-<!-- Social Media Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/asit-kumar-raut-275845322/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
@@ -46,34 +42,25 @@
 
 <br/>
 
-<!-- ================================================================ -->
-<!-- 🎯 CONTRIBUTION TRACKER - STARTS FROM 500                       -->
-<!-- ================================================================ -->
-
 <h2 align="center">🔥 CONTRIBUTION TRACKER</h2>
 <h3 align="center">📊 LIVE STATS | 🎯 STARTED FROM 500</h3>
 
 <br/>
 
-<!-- WORKING BADGES - All tested and confirmed -->
 <div align="center">
   
-  <!-- Total Contributions Badge -->
   <a href="https://github.com/Asit-Kumar-Raut">
     <img src="https://img.shields.io/badge/🔥%20TOTAL%20CONTRIBUTIONS-500%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b" alt="Total Contributions" />
   </a>
   
-  <!-- Current Streak Badge -->
   <a href="https://github.com/Asit-Kumar-Raut">
     <img src="https://img.shields.io/badge/⚡%20CURRENT%20STREAK-Active-ff69b4?style=for-the-badge&logo=fire&logoColor=white" alt="Streak" />
   </a>
   
-  <!-- Goal Progress Badge -->
   <a href="https://github.com/Asit-Kumar-Raut">
     <img src="https://img.shields.io/badge/🎯%20GOAL%20PROGRESS-50%25-ffd93d?style=for-the-badge&logo=target&logoColor=white" alt="Goal Progress" />
   </a>
   
-  <!-- Contributions Today -->
   <a href="https://github.com/Asit-Kumar-Raut">
     <img src="https://img.shields.io/badge/📊%20TODAY-+5%20contributions-48dbfb?style=for-the-badge&logo=github&logoColor=white" alt="Today" />
   </a>
@@ -81,13 +68,8 @@
 
 <br/>
 
-<!-- ================================================================ -->
-<!-- 🐍 SNAKE ANIMATION - STATIC BUT WORKING                        -->
-<!-- ================================================================ -->
-
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
-<!-- This is the ACTUAL working snake - it shows your contributions -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
@@ -101,13 +83,8 @@
 
 <br/>
 
-<!-- ================================================================ -->
-<!-- 🎯 GOAL PROGRESS - WORKING                                     -->
-<!-- ================================================================ -->
-
 <h2 align="center">🎯 GOAL PROGRESS</h2>
 
-<!-- PROGRESS BAR - Using working service -->
 <div align="center">
   <img src="https://progress-bar.dev/50/?title=🚀%20PROGRESS%20TO%20GOAL&width=600&color=ff6b6b&suffix=%%20(500/1000)" alt="Progress" />
 </div>
@@ -121,10 +98,6 @@
 </div>
 
 <br/>
-
-<!-- ================================================================ -->
-<!-- 🏃 WALKING CHARACTER - WORKING GIF                            -->
-<!-- ================================================================ -->
 
 <h2 align="center">🏃 WALKING CHARACTER</h2>
 
@@ -140,7 +113,6 @@
 
 <br/>
 
-<!-- ROADMAP -->
 <div align="center">
   <h3>🚀 YOUR JOURNEY TO 1000</h3>
   
@@ -176,10 +148,6 @@
 
 <br/>
 
-<!-- ================================================================ -->
-<!-- 📊 LIVE CONTRIBUTION GRAPH - WORKING                           -->
-<!-- ================================================================ -->
-
 <h2 align="center">📊 LIVE CONTRIBUTION GRAPH</h2>
 
 <div align="center">
@@ -187,10 +155,6 @@
 </div>
 
 <br/>
-
-<!-- ================================================================ -->
-<!-- 📈 GITHUB STATS - WORKING                                     -->
-<!-- ================================================================ -->
 
 <h2 align="center">📈 GITHUB STATS</h2>
 
@@ -205,16 +169,11 @@
 
 <br/>
 
-<!-- ================================================================ -->
-<!-- END OF CONTRIBUTION TRACKER                                    -->
-<!-- ================================================================ -->
-
-<!-- ABOUT ME -->
 <h2 align="center">🔥 ABOUT ME</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e47fb36-c0c1-4b13-aec0-b18cb6d221c9.gif" width="300" />
 
-I am a skilled **Full Stack Web & App Developer** with a strong technical foundation in **Reactjs, HTML, and CSS**. Beyond building user interfaces, I have expanded my coding toolkit with **Python** and have solid expertise in **Java and Kotlin for App Development**. I possess a natural curiosity that drives me to always seek out new things to learn.
+I am a skilled <b>Full Stack Web & App Developer</b> with a strong technical foundation in <b>Reactjs, HTML, and CSS</b>. Beyond building user interfaces, I have expanded my coding toolkit with <b>Python</b> and have solid expertise in <b>Java and Kotlin for App Development</b>. I possess a natural curiosity that drives me to always seek out new things to learn.
 
 <table>
   <tr>
@@ -240,7 +199,6 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TECH STACK -->
 <h2 align="center">💻 MY TECH STACK</h2>
 
 <div align="center">
@@ -253,7 +211,9 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
     <img src="https://skillicons.dev/icons?i=java,c,js,py&theme=dark&perline=10" />
   </a>
 </div>
+
 <br/>
+
 <div align="center">
   <h4>🌐 Web Development</h4>
   <a href="https://skillicons.dev">
@@ -262,28 +222,36 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
   <br/>
   <i>React.js, React Router DOM, React Bootstrap, HTML, CSS, Bootstrap, Node.js, Express.js, Flask</i>
 </div>
+
 <br/>
+
 <div align="center">
   <h4>📱 App Development</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin&theme=dark&perline=10" />
   </a>
 </div>
+
 <br/>
+
 <div align="center">
   <h4>🗄️ Database</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark&perline=10" />
   </a>
 </div>
+
 <br/>
+
 <div align="center">
   <h4>👁️ Computer Vision</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=opencv&theme=dark&perline=10" />
   </a>
 </div>
+
 <br/>
+
 <div align="center">
   <h4>🛠️ Tools</h4>
   <a href="https://skillicons.dev">
@@ -295,22 +263,20 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- FEATURED PROJECTS -->
 <h2 align="center">🏆 FEATURED PROJECTS</h2>
 
-| **Project** | **Description** | **Links** |
+| <b>Project</b> | <b>Description</b> | <b>Links</b> |
 |:---:|:---|:---:|
-| **Personal Portfolio** | 🌐 My personal portfolio website | [🌍 Live](https://asit-0.onrender.com/) |
-| **MarkX** | 🏢 A company project I worked on | [🌍 Live](https://markxweb.com/) |
-| **Prraagyalok** | 📚 A learning platform website | [🌍 Live](https://prraagyalok.netlify.app/) |
-| **Ardilium** | 💬 A social media website | [🌍 Live](https://asit-kumar-raut.github.io/ARDILIUM/) |
-| **iClicks** | ⛺ A nature camp website | [🌍 Live](https://iclicksweb.netlify.app/) |
-| **Musi-Deo** | 🎵 A music video website | [🌍 Live](https://musi-deo-website.vercel.app/) |
-| **Quiz** | 🧠 A fun quiz learning website | [🌍 Live](https://asit-kumar-raut.github.io/quiz/) |
+| <b>Personal Portfolio</b> | 🌐 My personal portfolio website | <a href="https://asit-0.onrender.com/">🌍 Live</a> |
+| <b>MarkX</b> | 🏢 A company project I worked on | <a href="https://markxweb.com/">🌍 Live</a> |
+| <b>Prraagyalok</b> | 📚 A learning platform website | <a href="https://prraagyalok.netlify.app/">🌍 Live</a> |
+| <b>Ardilium</b> | 💬 A social media website | <a href="https://asit-kumar-raut.github.io/ARDILIUM/">🌍 Live</a> |
+| <b>iClicks</b> | ⛺ A nature camp website | <a href="https://iclicksweb.netlify.app/">🌍 Live</a> |
+| <b>Musi-Deo</b> | 🎵 A music video website | <a href="https://musi-deo-website.vercel.app/">🌍 Live</a> |
+| <b>Quiz</b> | 🧠 A fun quiz learning website | <a href="https://asit-kumar-raut.github.io/quiz/">🌍 Live</a> |
 
 <br/>
 
-<!-- FOOTER - WORKING VERSION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" width="100%" />
 </div>

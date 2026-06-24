@@ -9,10 +9,9 @@
   Full Stack Web & App Developer
 </h1>
 
-<!-- TYPING SVG - FIXED VERSION -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&width=550&color=36BCF7&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON;JAVA+%26+KOTLIN+APP+DEV" alt="Typing SVG" />
-</div>
+<!-- STATIC TITLE - NO TYPING SVG -->
+<h2 align="center">ASIT KUMAR RAUT</h2>
+<h3 align="center">🔥 Full Stack Web & App Developer | React | Python | Java | Kotlin</h3>
 
 <p align="center">
   <a href="https://github.com/Asit-Kumar-Raut">
@@ -51,14 +50,12 @@
 <!-- 🎯 CONTRIBUTION TRACKER - STARTS FROM 500                       -->
 <!-- ================================================================ -->
 
-<!-- TYPING SVG - FIXED VERSION -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=500&color=FF6B6B&lines=🔥+CONTRIBUTION+TRACKER;📊+LIVE+STATS;🎯+STARTED+FROM+500" alt="Typing SVG" />
-</div>
+<h2 align="center">🔥 CONTRIBUTION TRACKER</h2>
+<h3 align="center">📊 LIVE STATS | 🎯 STARTED FROM 500</h3>
 
 <br/>
 
-<!-- WORKING BADGES -->
+<!-- WORKING BADGES - All tested and confirmed -->
 <div align="center">
   
   <!-- Total Contributions Badge -->
@@ -85,111 +82,60 @@
 <br/>
 
 <!-- ================================================================ -->
-<!-- 🐍 SCROLLING SNAKE                                             -->
+<!-- 🐍 SNAKE ANIMATION - STATIC BUT WORKING                        -->
 <!-- ================================================================ -->
 
-<div align="center">
-  <h2>🐍 SCROLLING SNAKE</h2>
-  
-  <p>
-    <img src="https://img.shields.io/badge/📜%20SCROLL%20DOWN-See%20the%20snake%20move!-ff6b6b?style=for-the-badge&logo=scroll&logoColor=white" alt="Scroll Down" />
-  </p>
-</div>
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
-<!-- SNAKE AT START POSITION -->
+<!-- This is the ACTUAL working snake - it shows your contributions -->
 <div align="center">
-  <h3>📍 POSITION 1</h3>
-  <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Start" />
-  <br/>
-  <img src="https://img.shields.io/badge/🐍-SNAKE%20START-00ff88?style=for-the-badge" alt="Snake Start" />
+  <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<!-- SNAKE AT MID POSITION -->
 <div align="center">
-  <h3>📍 POSITION 2</h3>
-  <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="85%" alt="Snake Mid" />
-  <br/>
-  <img src="https://img.shields.io/badge/🐍-SNAKE%20MOVING-ffd93d?style=for-the-badge" alt="Snake Moving" />
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!-- SNAKE AT END POSITION -->
-<div align="center">
-  <h3>📍 POSITION 3</h3>
-  <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake End" />
-  <br/>
-  <img src="https://img.shields.io/badge/🐍-SNAKE%20FINISH-ff6b6b?style=for-the-badge" alt="Snake Finish" />
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!-- TYPING SVG - SCROLL INDICATOR FIXED -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&center=true&width=400&color=48dbfb&lines=📜+Keep+scrolling+to+see+the+snake!;🐍+The+snake+follows+your+scroll!;🔥+Almost+there!;🏁+Reached+the+end!" alt="Scroll Typing" />
+  <img src="https://img.shields.io/badge/🐍%20SNAKE%20EATEN-All%20contributions-00ff88?style=for-the-badge" alt="Snake Stats" />
+  <img src="https://img.shields.io/badge/📊%20UPDATED-Daily-48dbfb?style=for-the-badge" alt="Updated Daily" />
 </div>
 
 <br/>
 
 <!-- ================================================================ -->
-<!-- 🎯 GOAL PROGRESS                                                -->
+<!-- 🎯 GOAL PROGRESS - WORKING                                     -->
 <!-- ================================================================ -->
 
-<div align="center">
-  <h2>🎯 GOAL PROGRESS</h2>
-</div>
+<h2 align="center">🎯 GOAL PROGRESS</h2>
 
-<!-- TYPING SVG - GOAL PROGRESS FIXED -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&width=500&color=FFD93D&lines=🚀+PROGRESS:+500+/+1000;🎯+GOAL:+1000+CONTRIBUTIONS;🌟+KEEP+GOING!;💪+YOU'RE+AT+50%25" alt="Goal Progress Typing" />
-</div>
-
-<br/>
-
-<!-- PROGRESS BAR -->
+<!-- PROGRESS BAR - Using working service -->
 <div align="center">
   <img src="https://progress-bar.dev/50/?title=🚀%20PROGRESS%20TO%20GOAL&width=600&color=ff6b6b&suffix=%%20(500/1000)" alt="Progress" />
 </div>
 
 <br/>
 
-<!-- PROGRESS BADGES -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📊%20COMPLETED-500%20contributions-00ff88?style=for-the-badge&logo=check-circle&logoColor=white" alt="Completed" />
-  <img src="https://img.shields.io/badge/🎯%20REMAINING-500%20contributions-ff6b6b?style=for-the-badge&logo=target&logoColor=white" alt="Remaining" />
-  <img src="https://img.shields.io/badge/⚡%20SPEED-📈%20Fast!-48dbfb?style=for-the-badge&logo=rocket&logoColor=white" alt="Speed" />
+  <img src="https://img.shields.io/badge/📊%20COMPLETED-500%20contributions-00ff88?style=for-the-badge" alt="Completed" />
+  <img src="https://img.shields.io/badge/🎯%20REMAINING-500%20contributions-ff6b6b?style=for-the-badge" alt="Remaining" />
+  <img src="https://img.shields.io/badge/⚡%20SPEED-📈%20Fast!-48dbfb?style=for-the-badge" alt="Speed" />
 </div>
 
 <br/>
 
 <!-- ================================================================ -->
-<!-- 🏃 WALKING CHARACTER                                            -->
+<!-- 🏃 WALKING CHARACTER - WORKING GIF                            -->
 <!-- ================================================================ -->
 
+<h2 align="center">🏃 WALKING CHARACTER</h2>
+
 <div align="center">
-  <h2>🏃 WALKING CHARACTER</h2>
-  
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120" />
   
   <br/>
   
-  <img src="https://img.shields.io/badge/🏃%20STATUS-Walking%20to%201000-ff6b6b?style=for-the-badge&logo=person-walking&logoColor=white" alt="Walking" />
-  <img src="https://img.shields.io/badge/📏%20DISTANCE-500%2F1000-48dbfb?style=for-the-badge&logo=map-pin&logoColor=white" alt="Distance" />
-  <img src="https://img.shields.io/badge/⏱️%20TIME-24/7-ffd93d?style=for-the-badge&logo=clock&logoColor=white" alt="Time" />
+  <img src="https://img.shields.io/badge/🏃%20STATUS-Walking%20to%201000-ff6b6b?style=for-the-badge" alt="Walking" />
+  <img src="https://img.shields.io/badge/📏%20DISTANCE-500%2F1000-48dbfb?style=for-the-badge" alt="Distance" />
+  <img src="https://img.shields.io/badge/⏱️%20TIME-24/7-ffd93d?style=for-the-badge" alt="Time" />
 </div>
 
 <br/>
@@ -231,24 +177,24 @@
 <br/>
 
 <!-- ================================================================ -->
-<!-- 📊 LIVE CONTRIBUTION GRAPH                                     -->
+<!-- 📊 LIVE CONTRIBUTION GRAPH - WORKING                           -->
 <!-- ================================================================ -->
 
+<h2 align="center">📊 LIVE CONTRIBUTION GRAPH</h2>
+
 <div align="center">
-  <h2>📊 LIVE CONTRIBUTION GRAPH</h2>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit-Kumar-Raut&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff6b6b&area=true&hide_border=true&custom_title=📊%20LIVE%20CONTRIBUTION%20GRAPH%20(Starts%20from%20500)" width="100%" />
 </div>
 
 <br/>
 
 <!-- ================================================================ -->
-<!-- 📈 GITHUB STATS                                                -->
+<!-- 📈 GITHUB STATS - WORKING                                     -->
 <!-- ================================================================ -->
 
+<h2 align="center">📈 GITHUB STATS</h2>
+
 <div align="center">
-  <h2>📈 GITHUB STATS</h2>
-  
   <img src="https://github-readme-stats.vercel.app/api?username=Asit-Kumar-Raut&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Asit-Kumar-Raut&theme=tokyonight&hide_border=true" width="48%" />
 </div>
@@ -264,9 +210,7 @@
 <!-- ================================================================ -->
 
 <!-- ABOUT ME -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=300&color=F77F00&lines=🔥+ABOUT+ME" alt="Typing SVG" />
-</div>
+<h2 align="center">🔥 ABOUT ME</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e47fb36-c0c1-4b13-aec0-b18cb6d221c9.gif" width="300" />
 
@@ -297,10 +241,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- TECH STACK -->
-<!-- TYPING SVG - FIXED -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1500&center=true&width=400&color=FF3366&lines=💻+MY+TECH+STACK;🌐+WEB+DEVELOPMENT;📱+APP+DEVELOPMENT;⚙️+BACKEND+%26+DB" alt="Typing SVG" />
-</div>
+<h2 align="center">💻 MY TECH STACK</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-467645f7-f8ce-412e-b6a3-26a17b0d7d74.gif" width="150"/>
@@ -355,9 +296,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- FEATURED PROJECTS -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=400&color=FF3366&lines=🏆+FEATURED+PROJECTS" alt="Typing SVG" />
-</div>
+<h2 align="center">🏆 FEATURED PROJECTS</h2>
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
@@ -371,12 +310,14 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <br/>
 
-<!-- FOOTER - FIXED VERSION -->
+<!-- FOOTER - WORKING VERSION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=🚀%20Keep%20Contributing!&fontSize=30&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" width="100%" />
 </div>
 
-<!-- TYPING SVG - FOOTER FIXED -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&center=true&width=400&color=FF6B6B&lines=🌟+Thanks+for+visiting!;🚀+Let's+code+the+future!;💻+Happy+Coding!;🔥+From+500+to+1000+and+beyond!" alt="Footer Typing" />
+  <h3>🌟 Thanks for visiting!</h3>
+  <h4>🚀 Let's code the future!</h4>
+  <h4>💻 Happy Coding!</h4>
+  <h4>🔥 From 500 to 1000 and beyond!</h4>
 </div>

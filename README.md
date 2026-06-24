@@ -9,8 +9,9 @@
   Full Stack Web & App Developer
 </h1>
 
+<!-- TYPING SVG - FIXED VERSION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&center=true&width=550&color=36BCF7&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON;JAVA+%26+KOTLIN+APP+DEV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&width=550&color=36BCF7&lines=ASIT+KUMAR+RAUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON;JAVA+%26+KOTLIN+APP+DEV" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -50,13 +51,14 @@
 <!-- 🎯 CONTRIBUTION TRACKER - STARTS FROM 500                       -->
 <!-- ================================================================ -->
 
+<!-- TYPING SVG - FIXED VERSION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=500&color=FF6B6B&lines=🔥+CONTRIBUTION+TRACKER;📊+LIVE+STATS;🎯+STARTED+FROM+500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=500&color=FF6B6B&lines=🔥+CONTRIBUTION+TRACKER;📊+LIVE+STATS;🎯+STARTED+FROM+500" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- WORKING BADGES - All tested and working -->
+<!-- WORKING BADGES -->
 <div align="center">
   
   <!-- Total Contributions Badge -->
@@ -83,7 +85,7 @@
 <br/>
 
 <!-- ================================================================ -->
-<!-- 🐍 SCROLLING SNAKE - Moves as you scroll!                       -->
+<!-- 🐍 SCROLLING SNAKE                                             -->
 <!-- ================================================================ -->
 
 <div align="center">
@@ -136,29 +138,29 @@
 <br/>
 <br/>
 
-<!-- SCROLL INDICATOR -->
+<!-- TYPING SVG - SCROLL INDICATOR FIXED -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&center=true&width=400&color=48dbfb&lines=📜+Keep+scrolling+to+see+the+snake!;🐍+The+snake+follows+your+scroll!;🔥+Almost+there!;🏁+Reached+the+end!" alt="Scroll Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&center=true&width=400&color=48dbfb&lines=📜+Keep+scrolling+to+see+the+snake!;🐍+The+snake+follows+your+scroll!;🔥+Almost+there!;🏁+Reached+the+end!" alt="Scroll Typing" />
 </div>
 
 <br/>
 
 <!-- ================================================================ -->
-<!-- 🎯 GOAL PROGRESS - FULLY WORKING                               -->
+<!-- 🎯 GOAL PROGRESS                                                -->
 <!-- ================================================================ -->
 
 <div align="center">
   <h2>🎯 GOAL PROGRESS</h2>
 </div>
 
-<!-- PROGRESS BAR TYPING -->
+<!-- TYPING SVG - GOAL PROGRESS FIXED -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&width=500&color=FFD93D&lines=🚀+PROGRESS:+500+/+1000;🎯+GOAL:+1000+CONTRIBUTIONS;🌟+KEEP+GOING!;💪+YOU'RE+AT+50%25" alt="Goal Progress Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&width=500&color=FFD93D&lines=🚀+PROGRESS:+500+/+1000;🎯+GOAL:+1000+CONTRIBUTIONS;🌟+KEEP+GOING!;💪+YOU'RE+AT+50%25" alt="Goal Progress Typing" />
 </div>
 
 <br/>
 
-<!-- PROGRESS BAR - Using progress-bar.dev -->
+<!-- PROGRESS BAR -->
 <div align="center">
   <img src="https://progress-bar.dev/50/?title=🚀%20PROGRESS%20TO%20GOAL&width=600&color=ff6b6b&suffix=%%20(500/1000)" alt="Progress" />
 </div>
@@ -175,13 +177,12 @@
 <br/>
 
 <!-- ================================================================ -->
-<!-- 🏃 WALKING CHARACTER - Animated GIF                            -->
+<!-- 🏃 WALKING CHARACTER                                            -->
 <!-- ================================================================ -->
 
 <div align="center">
   <h2>🏃 WALKING CHARACTER</h2>
   
-  <!-- Working GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120" />
   
   <br/>
@@ -264,7 +265,7 @@
 
 <!-- ABOUT ME -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=300&color=F77F00&lines=🔥+ABOUT+ME" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=300&color=F77F00&lines=🔥+ABOUT+ME" alt="Typing SVG" />
 </div>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e47fb36-c0c1-4b13-aec0-b18cb6d221c9.gif" width="300" />
@@ -296,8 +297,9 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- TECH STACK -->
+<!-- TYPING SVG - FIXED -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1500&center=true&width=400&color=FF3366&lines=💻+MY+TECH+STACK;🌐+WEB+DEVELOPMENT;📱+APP+DEVELOPMENT;⚙️+BACKEND+%26+DB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1500&center=true&width=400&color=FF3366&lines=💻+MY+TECH+STACK;🌐+WEB+DEVELOPMENT;📱+APP+DEVELOPMENT;⚙️+BACKEND+%26+DB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -354,7 +356,7 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <!-- FEATURED PROJECTS -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=400&color=FF3366&lines=🏆+FEATURED+PROJECTS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=400&color=FF3366&lines=🏆+FEATURED+PROJECTS" alt="Typing SVG" />
 </div>
 
 | **Project** | **Description** | **Links** |
@@ -369,11 +371,12 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 <br/>
 
-<!-- FOOTER -->
+<!-- FOOTER - FIXED VERSION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=🚀%20Keep%20Contributing!&fontSize=30&animation=twinkling" width="100%" />
 </div>
 
+<!-- TYPING SVG - FOOTER FIXED -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&center=true&width=400&color=FF6B6B&lines=🌟+Thanks+for+visiting!;🚀+Let's+code+the+future!;💻+Happy+Coding!;🔥+From+500+to+1000+and+beyond!" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&center=true&width=400&color=FF6B6B&lines=🌟+Thanks+for+visiting!;🚀+Let's+code+the+future!;💻+Happy+Coding!;🔥+From+500+to+1000+and+beyond!" alt="Footer Typing" />
 </div>

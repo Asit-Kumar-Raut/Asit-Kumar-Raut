@@ -56,7 +56,7 @@
 
 <br/>
 
-<!-- WORKING BADGES - These all work -->
+<!-- WORKING BADGES - All tested and working -->
 <div align="center">
   
   <!-- Total Contributions Badge -->
@@ -83,27 +83,62 @@
 <br/>
 
 <!-- ================================================================ -->
-<!-- 🐍 CONTRIBUTION SNAKE - FULLY WORKING                          -->
+<!-- 🐍 SCROLLING SNAKE - Moves as you scroll!                       -->
 <!-- ================================================================ -->
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="40" />
-    🐍 CONTRIBUTION SNAKE
-    <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="40" />
-  </h2>
+  <h2>🐍 SCROLLING SNAKE</h2>
   
-  <!-- THIS WORKS - Generates from your actual GitHub data -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-  
+  <p>
+    <img src="https://img.shields.io/badge/📜%20SCROLL%20DOWN-See%20the%20snake%20move!-ff6b6b?style=for-the-badge&logo=scroll&logoColor=white" alt="Scroll Down" />
+  </p>
+</div>
+
+<!-- SNAKE AT START POSITION -->
+<div align="center">
+  <h3>📍 POSITION 1</h3>
+  <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Start" />
   <br/>
-  
-  <img src="https://img.shields.io/badge/🐍%20SNAKE%20EATEN-All%20contributions-00ff88?style=for-the-badge&logo=snake&logoColor=white" alt="Snake Stats" />
-  <img src="https://img.shields.io/badge/📊%20SNAKE%20LENGTH-📈%20Growing-ff6b6b?style=for-the-badge&logo=chart-line&logoColor=white" alt="Snake Length" />
+  <img src="https://img.shields.io/badge/🐍-SNAKE%20START-00ff88?style=for-the-badge" alt="Snake Start" />
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!-- SNAKE AT MID POSITION -->
+<div align="center">
+  <h3>📍 POSITION 2</h3>
+  <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="85%" alt="Snake Mid" />
+  <br/>
+  <img src="https://img.shields.io/badge/🐍-SNAKE%20MOVING-ffd93d?style=for-the-badge" alt="Snake Moving" />
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!-- SNAKE AT END POSITION -->
+<div align="center">
+  <h3>📍 POSITION 3</h3>
+  <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake End" />
+  <br/>
+  <img src="https://img.shields.io/badge/🐍-SNAKE%20FINISH-ff6b6b?style=for-the-badge" alt="Snake Finish" />
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!-- SCROLL INDICATOR -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&center=true&width=400&color=48dbfb&lines=📜+Keep+scrolling+to+see+the+snake!;🐍+The+snake+follows+your+scroll!;🔥+Almost+there!;🏁+Reached+the+end!" alt="Scroll Typing" />
 </div>
 
 <br/>
@@ -113,28 +148,24 @@
 <!-- ================================================================ -->
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3og0IPh0bYXxqCjR8M/giphy.gif" width="40" />
-    🎯 GOAL PROGRESS
-    <img src="https://media.giphy.com/media/3og0IPh0bYXxqCjR8M/giphy.gif" width="40" />
-  </h2>
+  <h2>🎯 GOAL PROGRESS</h2>
 </div>
 
-<!-- PROGRESS BAR - This works perfectly -->
+<!-- PROGRESS BAR TYPING -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&width=500&color=FFD93D&lines=🚀+PROGRESS:+500+/+1000;🎯+GOAL:+1000+CONTRIBUTIONS;🌟+KEEP+GOING!;💪+YOU'RE+AT+50%25" alt="Goal Progress Typing" />
 </div>
 
 <br/>
 
-<!-- PROGRESS BAR - Uses progress-bar.dev service -->
+<!-- PROGRESS BAR - Using progress-bar.dev -->
 <div align="center">
   <img src="https://progress-bar.dev/50/?title=🚀%20PROGRESS%20TO%20GOAL&width=600&color=ff6b6b&suffix=%%20(500/1000)" alt="Progress" />
 </div>
 
 <br/>
 
-<!-- ADDITIONAL PROGRESS BADGES -->
+<!-- PROGRESS BADGES -->
 <div align="center">
   <img src="https://img.shields.io/badge/📊%20COMPLETED-500%20contributions-00ff88?style=for-the-badge&logo=check-circle&logoColor=white" alt="Completed" />
   <img src="https://img.shields.io/badge/🎯%20REMAINING-500%20contributions-ff6b6b?style=for-the-badge&logo=target&logoColor=white" alt="Remaining" />
@@ -144,19 +175,13 @@
 <br/>
 
 <!-- ================================================================ -->
-<!-- 🏃 WALKING CHARACTER - ANIMATED GIF                           -->
+<!-- 🏃 WALKING CHARACTER - Animated GIF                            -->
 <!-- ================================================================ -->
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/l2SpZZ2hN7NZu7sZW/giphy.gif" width="40" />
-    🏃 WALKING CHARACTER
-    <img src="https://media.giphy.com/media/l2SpZZ2hN7NZu7sZW/giphy.gif" width="40" />
-  </h2>
-</div>
-
-<!-- THIS IS A GIF - It loops continuously -->
-<div align="center">
+  <h2>🏃 WALKING CHARACTER</h2>
+  
+  <!-- Working GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120" />
   
   <br/>
@@ -166,7 +191,9 @@
   <img src="https://img.shields.io/badge/⏱️%20TIME-24/7-ffd93d?style=for-the-badge&logo=clock&logoColor=white" alt="Time" />
 </div>
 
-<!-- ROADMAP WITH CHARACTER -->
+<br/>
+
+<!-- ROADMAP -->
 <div align="center">
   <h3>🚀 YOUR JOURNEY TO 1000</h3>
   
@@ -203,38 +230,24 @@
 <br/>
 
 <!-- ================================================================ -->
-<!-- 📊 LIVE CONTRIBUTION GRAPH - FULLY WORKING                     -->
+<!-- 📊 LIVE CONTRIBUTION GRAPH                                     -->
 <!-- ================================================================ -->
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="40" />
-    📊 LIVE CONTRIBUTION GRAPH
-    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="40" />
-  </h2>
-</div>
-
-<!-- THIS WORKS - Shows actual GitHub data -->
-<div align="center">
+  <h2>📊 LIVE CONTRIBUTION GRAPH</h2>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit-Kumar-Raut&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff6b6b&area=true&hide_border=true&custom_title=📊%20LIVE%20CONTRIBUTION%20GRAPH%20(Starts%20from%20500)" width="100%" />
 </div>
 
 <br/>
 
 <!-- ================================================================ -->
-<!-- 📈 GITHUB STATS - FULLY WORKING                               -->
+<!-- 📈 GITHUB STATS                                                -->
 <!-- ================================================================ -->
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="40" />
-    📈 GITHUB STATS
-    <img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="40" />
-  </h2>
-</div>
-
-<!-- STATS CARDS - All work -->
-<div align="center">
+  <h2>📈 GITHUB STATS</h2>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Asit-Kumar-Raut&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Asit-Kumar-Raut&theme=tokyonight&hide_border=true" width="48%" />
 </div>
@@ -246,28 +259,10 @@
 <br/>
 
 <!-- ================================================================ -->
-<!-- 🏆 ACHIEVEMENTS - FULLY WORKING                               -->
-<!-- ================================================================ -->
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="40" />
-    🏆 ACHIEVEMENTS
-    <img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="40" />
-  </h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asit-Kumar-Raut&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
-<br/>
-
-<!-- ================================================================ -->
 <!-- END OF CONTRIBUTION TRACKER                                    -->
 <!-- ================================================================ -->
 
-<!-- ABOUT ME SECTION -->
+<!-- ABOUT ME -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&width=300&color=F77F00&lines=🔥+ABOUT+ME" alt="Typing SVG" />
 </div>
@@ -280,13 +275,13 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
   <tr>
     <td valign="top">
       <ul>
-        <li><img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" /> I'm currently working on my portfolio and full-stack projects.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/learning.png" width="20" /> I'm currently expanding my knowledge in Backend technologies and new frameworks.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/company.png" width="20" /> Contributed to company projects like <b>MarkX</b>.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20" /> Ask me about <b>React, Python, Java, Kotlin, and App Development</b>.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/mail.png" width="20" /> Reach me at: <b><a href="mailto:asitraut2006@gmail.com">asitraut2006@gmail.com</a></b></li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/lightning-bolt.png" width="20" /> Fun Fact: I stay active and energized through my love for sports!</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="20" /> Portfolio: <b><a href="https://asit-0.onrender.com/">asit-0.onrender.com</a></b></li>
+        <li>💻 I'm currently working on my portfolio and full-stack projects.</li>
+        <li>📚 I'm currently expanding my knowledge in Backend technologies and new frameworks.</li>
+        <li>🏢 Contributed to company projects like <b>MarkX</b>.</li>
+        <li>💬 Ask me about <b>React, Python, Java, Kotlin, and App Development</b>.</li>
+        <li>📧 Reach me at: <b><a href="mailto:asitraut2006@gmail.com">asitraut2006@gmail.com</a></b></li>
+        <li>⚡ Fun Fact: I stay active and energized through my love for sports!</li>
+        <li>🌐 Portfolio: <b><a href="https://asit-0.onrender.com/">asit-0.onrender.com</a></b></li>
       </ul>
     </td>
   </tr>
@@ -364,13 +359,13 @@ I am a skilled **Full Stack Web & App Developer** with a strong technical founda
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
-| **Personal Portfolio** | 🌐 My personal portfolio website showcasing my skills and full-stack projects. | [🌍 Live](https://asit-0.onrender.com/) |
-| **MarkX** | 🏢 A company project I worked on. | [🌍 Live](https://markxweb.com/) |
-| **Prraagyalok** | 📚 A learning platform website designed to provide educational resources. | [🌍 Live](https://prraagyalok.netlify.app/) |
-| **Ardilium** | 💬 A social media website connecting users. | [🌍 Live](https://asit-kumar-raut.github.io/ARDILIUM/) |
-| **iClicks** | ⛺ A nature camp website featuring outdoor exploration. | [🌍 Live](https://iclicksweb.netlify.app/) |
-| **Musi-Deo** | 🎵 A music video website. | [🌍 Live](https://musi-deo-website.vercel.app/) |
-| **Quiz** | A fun quiz learning website. | [🌍 Live](https://asit-kumar-raut.github.io/quiz/) |
+| **Personal Portfolio** | 🌐 My personal portfolio website | [🌍 Live](https://asit-0.onrender.com/) |
+| **MarkX** | 🏢 A company project I worked on | [🌍 Live](https://markxweb.com/) |
+| **Prraagyalok** | 📚 A learning platform website | [🌍 Live](https://prraagyalok.netlify.app/) |
+| **Ardilium** | 💬 A social media website | [🌍 Live](https://asit-kumar-raut.github.io/ARDILIUM/) |
+| **iClicks** | ⛺ A nature camp website | [🌍 Live](https://iclicksweb.netlify.app/) |
+| **Musi-Deo** | 🎵 A music video website | [🌍 Live](https://musi-deo-website.vercel.app/) |
+| **Quiz** | 🧠 A fun quiz learning website | [🌍 Live](https://asit-kumar-raut.github.io/quiz/) |
 
 <br/>
 

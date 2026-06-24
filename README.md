@@ -68,21 +68,6 @@
 
 <br/>
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Asit-Kumar-Raut/Asit-Kumar-Raut/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🐍%20SNAKE%20EATEN-All%20contributions-00ff88?style=for-the-badge" alt="Snake Stats" />
-  <img src="https://img.shields.io/badge/📊%20UPDATED-Daily-48dbfb?style=for-the-badge" alt="Updated Daily" />
-</div>
-
-<br/>
-
 <h2 align="center">🎯 GOAL PROGRESS</h2>
 
 <div align="center">
